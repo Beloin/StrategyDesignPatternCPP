@@ -33,3 +33,5 @@ Model Examples:
 - Clustering
 - KMeans
 - KNN
+
+# Chosen Idea: Media Driver
